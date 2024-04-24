@@ -1,0 +1,12 @@
+---
+layout:       post
+title:        "第一张博客"
+author:       "Ycf"
+header-style: text
+catalog:      true
+tags:
+    - Web
+    - JavaScript
+---
+
+这是我的第一张博客
